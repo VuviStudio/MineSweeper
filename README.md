@@ -1,4 +1,4 @@
-# MineSweeoer
+# MineSweeper
 MineSweeper Selfbot
 
 # Requirements
